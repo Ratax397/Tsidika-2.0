@@ -1,5 +1,7 @@
 # Tsidika 2.0
 
+🌐 **Demo live:** [https://tsidika-2-0.vercel.app/](https://tsidika-2-0.vercel.app/)
+
 Tsidika 2.0 is a modern property listing and booking app built with the Next.js App Router. Hosts can list properties, and guests can search, favorite, and book stays.
 
 ## Features
