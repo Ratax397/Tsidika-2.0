@@ -1,7 +1,5 @@
-// middleware.ts
 
-// Commentez TOUT temporairement pour tester
-/*
+
 import { withAuth } from "next-auth/middleware"
 
 export default withAuth({
@@ -18,4 +16,3 @@ export const config = {
         "/favorites"
     ]
 }
-*/
