@@ -7,11 +7,12 @@ export default withAuth({
     }
 })
 
-export const config={
-    matcher:[
-        "/trips",
-        "/reservations",
-        "/properties",
-        "/favorites"
+export const config = {
+    matcher: [
+        // Commentez temporairement pour tester
+        // "/trips",
+        // "/reservations",
+        // "/properties",
+        // "/favorites"
     ]
 }
